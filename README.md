@@ -48,6 +48,3 @@ Hello Maheep!
 25MCAR0105
 
 
-Status: ✅ Pass
-
-(Use the screenshot you uploaded, as it clearly shows both your name and USN.)
